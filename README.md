@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @S4tvik
 - 👀 I’m currently learning web dev
-- 📫 Interested in the question , "Can you combine computer science and music?"
-- ✔ If you have the same question, reach me ASAP
+- 📫 Currently interested in the question , "Can you combine computer science and music?"
+- ✔ If you have the same question, reach me
 - ✌ 
 <!---
 S4tvik/S4tvik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
