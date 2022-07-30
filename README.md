@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S4tvik
-- 👀 I’m currently learning web dev
-- 📫 Currently interested in useless shit 
+- 👀 I’m currently learning Machine learning
+- 📫 Currently interested in Neural Networks and deep learning
 - ✌ 
 <!---
 S4tvik/S4tvik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
